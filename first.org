@@ -1,0 +1,21 @@
+| f | s | t |   |   |
+| 1 | 1 | 1 |   |   |
+| 2 | 2 | 2 |   |   |
+|---+---+---+---+---|
+| 3 | 3 | 3 |   |   |
+
+
+* Top level
+** Secord level
+Still outside the drawer
+:DRAWERNAME:
+This is inside the drawer.
+:END:
+After the drawer.
+*** 3rd level
+*** Another 3rd level
+* Another top level
+
+The Org homepage[fn:1] now looks a lot better than it used to.
+...
+[fn:1] The link is: http://orgmode.org
